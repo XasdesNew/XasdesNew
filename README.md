@@ -37,20 +37,13 @@
 
 ## 🚀 **Мои проекты**
 
-### 🔗 [Проект 1: Telegram-бот для автоматизации задач](https://github.com/username/project1)
-- **Описание**: Создан с использованием `aiogram` и интеграцией с базами данных.  
-- **Особенности**: Уведомления, сбор данных, управление процессами.  
-
-### 🔗 [Проект 2: ML-модель для анализа данных](https://github.com/username/project2)
-- **Описание**: Модель машинного обучения для предсказаний.  
-- **Технологии**: `TensorFlow`, `Pandas`, `Numpy`.
-
+### 🔗 СКОРО ТУТ ЧТО-ТО БУДЕТ
 ---
 
 ## 📊 **GitHub статистика**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xasdesnew&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xasdesnew&layout=compact&theme=radical" height="150" />
 </div>
 
 ---
@@ -58,13 +51,13 @@
 ## 🔗 **Контакты**
 
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/xasdesnew">
     <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/xasdesnew">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://xasdesnew.github.io/my-bio/">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </div>
