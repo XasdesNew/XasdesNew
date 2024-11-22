@@ -15,11 +15,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
@@ -27,11 +23,10 @@
 ---
 
 ## 💻 **Обо мне**
-- 🐍 Я специализируюсь на **Python**: разработка веб-приложений, автоматизация и работа с данными.  
-- 🤖 Активно работаю с **ML**, включая **TensorFlow** и **PyTorch**.  
-- 🌐 Опытный веб-разработчик с использованием **Flask** и **Django**.  
-- 📊 Создаю **Telegram-ботов** и автоматизирую процессы с помощью **aiogram**.  
-- 🛠️ Использую Docker, Git и базы данных для работы над проектами.  
+- 🐍 Я специализируюсь на **Python**: разработка веб-приложений, автоматизация и работа с данными.
+- 🌐 Веб-разработчик с использованием **Flask**.  
+- 📊 Создаю **Telegram-ботов** с помощью **aiogram**.  
+- 🛠️ Использую Git и базы данных для работы над проектами.  
 
 ---
 
