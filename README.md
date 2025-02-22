@@ -1,12 +1,10 @@
 <div align="center">
-  <h1>👋 Hello! I’m <span style="color: #f06292; font-family: 'Fira Sans', sans-serif;">XasdesNew</span></h1>
-  <h3>💡 Python Developer | 3 Years of Experience</h3>
+  <h1>👋 Hello! I’m <span style="color: #f06292;">XasdesNew</span></h1>
+  <h3>💡 Python Developer | 4 Years of Experience</h3>
 </div>
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F06292&width=500&lines=Hello!+I'm+-+Xasdes!;Python+/+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&width=500&lines=ㅤㅤㅤㅤㅤㅤHello!+I%27m+-+Xasdes!;ㅤㅤㅤㅤㅤㅤㅤㅤPython+Coder;ㅤㅤㅤㅤㅤㅤㅤLearning+Java" alt="Typing SVG" />
 </div>
 
 ---
@@ -26,33 +24,45 @@
 ---
 
 ## 💻 **About Me**
-I'm a passionate Python developer with 4 years of experience in building modern web applications and automation tools. I focus on creating scalable and efficient systems.
+
+I’m a passionate Python developer with **4 years of experience** crafting modern web applications and automation tools. My focus is on building **scalable**, **efficient**, and **user-friendly systems**.
 
 - 🐍 **Specializing in Python**: Web development, automation, and data processing.
-- 🌐 **Web Development with Flask**: Building fast and lightweight web applications.
-- 🤖 **Creating Telegram Bots** with **aiogram**: Automating tasks, integrating APIs, and providing services to users.
-- 🛠️ **Version control with Git** and **SQL databases** for managing data.
+- 🌐 **Web Development with Flask**: Fast and lightweight web applications.
+- 🤖 **Telegram Bots with aiogram**: Task automation, API integration, and user services.
+- ☕ **Exploring Java**: Expanding my knowledge in **Java** to develop even more powerful applications.
+- 🛠️ **Tools**: Git for version control and SQL databases for data management.
 
 ---
 
 ## 🚀 **My Projects**
 
-### 🎮 **QuantomClient** *(In Development)*  
-QuantomClient — это Minecraft-клиент, разрабатываемый для улучшения игрового опыта.  
+### 🔐 **XsPass**
 
-- 🛠️ **Текущий статус**: в активной разработке.  
-- 🌐 **Сайт**: находится в разработке.  
-- 🔗 **Telegram-канал**: [QuantomClient](https://t.me/quantomclient).  
-- 🎯 **Особенности**: 
-  - Улучшение производительности и стабильности.  
-  - Дополнительные функции и возможности для игроков.  
-  - Удобный и интуитивно понятный интерфейс.  
+XsPass is a Python module crafted to generate robust, random passwords effortlessly. By harnessing advanced algorithms, it ensures the creation of secure and unique passwords for your applications.
 
-Следите за обновлениями и участвуйте в создании чего-то уникального!  
+- **Technologies**: Python, Flask, SQL  
+- **GitHub**: [XsPass](https://github.com/XasdesNew/XsPass)  
+- **Features**:  
+  - 🔒 Generates strong random passwords  
+  - 🔑 Seamless integration into your projects  
+  - ⚡ Fast and efficient password generation  
+
+### 💻 **PCControl**
+
+PCControl is a **Telegram bot** that lets you remotely control your PC from anywhere.
+
+- **Technologies**: Python, aiogram  
+- **Forum Thread**: [PCControl](https://endway.org/threads/pccontrol-bot-dlja-upravlenija-pk.11057/)  
+- **Features**:  
+  - 🌍 Remote PC function control  
+  - 📱 Telegram integration for accessibility  
+  - ⚙️ Customizable commands  
 
 ---
 
 ## 📊 **GitHub Stats**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xasdesnew&show_icons=true&theme=radical&hide_title=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xasdesnew&layout=compact&theme=radical" height="150" />
