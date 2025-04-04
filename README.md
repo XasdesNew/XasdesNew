@@ -79,7 +79,7 @@ PCControl is a **Telegram bot** that lets you remotely control your PC from anyw
   <a href="https://t.me/xasdesnew">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://xasdesnew.github.io/my-bio/">
+  <a href="https://xasdesnew.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </div>
