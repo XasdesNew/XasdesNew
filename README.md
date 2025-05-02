@@ -59,6 +59,17 @@ PCControl is a **Telegram bot** that lets you remotely control your PC from anyw
   - 📱 Telegram integration for accessibility  
   - ⚙️ Customizable commands  
 
+### 🎲 **XsRandom**
+
+XsRandom is a Python module that generates random numbers, strings, or any other random data types based on user input. It's designed for both simple and advanced randomization tasks in various applications.
+
+- **Technologies**: Python  
+- **GitHub**: [XsRandom](https://github.com/XasdesNew/XsRandom)  
+- **Features**:  
+  - 🔢 Generate random numbers, strings, or custom data  
+  - 🔄 Configurable for different randomization needs  
+  - ⚡ Fast and easy integration for random data generation  
+
 ---
 
 ## 📊 **GitHub Stats**
