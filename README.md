@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello! I’m <span style="color: #f06292;">XasdesNew</span></h1>
+  <h1>👋 Hello! I'm <span style="color: #f06292;">XasdesNew</span></h1>
   <h3>💡 Python Developer | 4 Years of Experience</h3>
 </div>
 
@@ -25,12 +25,12 @@
 
 ## 💻 **About Me**
 
-I’m a passionate Python developer with **4 years of experience** crafting modern web applications and automation tools. My focus is on building **scalable**, **efficient**, and **user-friendly systems**.
+I'm a passionate Python developer with **4 years of experience** crafting modern web applications and automation tools. My focus is on building **scalable**, **efficient**, and **user-friendly systems**.
 
 - 🐍 **Specializing in Python**: Web development, automation, and data processing.
 - 🌐 **Web Development with Flask**: Fast and lightweight web applications.
 - 🤖 **Telegram Bots with aiogram**: Task automation, API integration, and user services.
-- ☕ **Exploring Java**: Expanding my knowledge in **Java** to develop even more powerful applications.
+- 🔍 **Learning Reverse Engineering**: Exploring software internals, binary analysis, and vulnerability research to understand how applications work at a fundamental level.
 - 🛠️ **Tools**: Git for version control and SQL databases for data management.
 
 ---
